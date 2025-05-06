@@ -9,8 +9,6 @@
 
 👤 **Sebastien C.**
 
-* Github: [@Dev-IT-Seb](https://github.com/Dev-IT-Seb)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
